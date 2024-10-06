@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abendezu10&show_icons=true&theme=dracula)
-
-[![Email](https://img.shields.io/badge/Email-alexanderbendezu10@gmail.com-blue)](mailto:alexanderbendezu10@gmail.com)
 
 
 
