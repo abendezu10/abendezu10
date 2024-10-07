@@ -1,4 +1,3 @@
-<img alt="Peru national team celebrating World Cup Qualification" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJu4FE3c6svsZvG34beeBe9swr2xTdWq_1Q&s" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
