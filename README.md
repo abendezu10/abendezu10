@@ -1,3 +1,5 @@
+<img alt="Peru national team celebrating World Cup Qualification" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJu4FE3c6svsZvG34beeBe9swr2xTdWq_1Q&s" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
