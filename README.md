@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![KiCad](https://img.shields.io/badge/-KiCad-05122A?style=flat&logo=kicad&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;\
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=coffeescript&logoColor=FFA518)&nbsp;
 ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-05122A?style=flat&logo=intel)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Soldering](https://img.shields.io/badge/-Soldering-05122A?style=flat&logo=electronics&logoColor=A8B9CC)&nbsp;\
