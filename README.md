@@ -1,6 +1,7 @@
-
-
-
+## &nbsp;&nbsp;&nbsp;&nbsp;Summary
+- 📕 Undegraduate student at William and Mary studying Computer Science
+- 💻 Interested in low-level code and working with hardware
+- 🧑‍💻 Researcher under Professor Evtyushkin using FPGAs to simulate side-channel attacks
 ## &nbsp;&nbsp;&nbsp;&nbsp;Technologies I Use 🤖
 
 <!--tech stack icons-->
