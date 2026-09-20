@@ -3,7 +3,6 @@
 <p align="center">
   📕 Undergraduate student at William and Mary studying Computer Science <br />
   💻 Interested in low-level code and working with hardware <br />
-  🧑‍💻 Researcher under Professor Evtyushkin using FPGAs to simulate side-channel attacks
 </p>
 
 <!-- Technologies I Use Section -->
