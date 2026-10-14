@@ -1,4 +1,4 @@
-<!-- About Me Section 33--> 
+<!-- About Me Section 33--> s
 <h2 align="center">About Me 🐧</h2>
 <p align="center">
   📕 Undergraduate student at William and Mary studying Computer Science <br />
