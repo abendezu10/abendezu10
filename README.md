@@ -1,4 +1,4 @@
-<!-- About Me Section 33--> s
+<!-- About Me Section 33--> 
 <h2 align="center">About Me 🐧</h2>
 <p align="center">
   📕 Undergraduate student at William and Mary studying Computer Science <br />
@@ -9,7 +9,7 @@
 <h2 align="center">Technologies I Use 🤖</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,linux,python&perline=14" alt="Technologies" />
+    <img src="https://skillicons.dev/icons?i=c,linux,cpp&perline=14" alt="Technologies" />
   </a>
 </p>
 
