@@ -1,6 +1,6 @@
-<!-- About Me Section 33--> 
+<!-- About Me Se3ction 33--> 
 <h2 align="center">About Me 🐧</h2>
-<p align="center">
+<p align="center"> 
   📕 Undergraduate student at William and Mary studying Computer Science <br />
   💻 Interested in low-level code and working with hardware <br />
 </p>
